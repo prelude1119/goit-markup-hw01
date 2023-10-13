@@ -1,0 +1,185 @@
+.list {
+    list-style-type: none;
+}
+.link {
+    text-decoration: none;
+}
+button {
+    cursor: pointer;
+}
+body {
+    font-family: 'Raleway', 'Roboto', sans-serif;
+    border-bottom: 1px solid #E7E9FC
+}
+.accent-color {
+    color: #fd9222;
+}
+
+.logotype {
+    font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 21px;
+        letter-spacing: 0.03em;
+        text-align: left;
+    color: #4D5AE5;
+}
+.menu-link {
+    //styleName: Body Medium;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+    color: #2E2F42;
+}
+.menu-link:hover,
+.menu-link:focus {
+    color: #9747FF;
+}
+.address {
+    //styleName: Body;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+    color: #434455;
+}
+.address:hover,
+.address:focus {
+    color: #9747FF;
+}
+.hero {
+    background: #2E2F42;
+}
+.main-title {
+    //styleName: Header 1;
+        font-family: Roboto;
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 60px;
+        letter-spacing: 0.02em;
+        text-align: center;
+    color: #FFFFFF;
+}
+.order {
+    //styleName: Button Text;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.04em;
+        text-align: left;
+    color: #FFFFFF;
+    background: #4D5AE5;
+}
+.order:hover,
+.order:focus {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+.benefits-list-title {
+    //styleName: Header 3;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+    color: #2E2F42;
+}
+
+.benefits-list-text {
+    //styleName: Body;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+    color: #434455;
+}
+.team-title {
+    //styleName: Header 2;
+        font-family: Roboto;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 40px;
+        letter-spacing: 0.02em;
+        text-align: center;
+    color: #2E2F42;
+}
+.team-title-list {
+    //styleName: Header 3;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: center;
+    color: #2E2F42;
+}
+.team-title-list-text {
+    //styleName: Body;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: center;
+    color: #434455;
+}
+.portfolio-title {
+    //styleName: Header 2;
+        font-family: Roboto;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 40px;
+        letter-spacing: 0.02em;
+        text-align: center;
+    color: #2E2F42;
+}
+.portfolio-title-list {
+    //styleName: Header 3;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+    color: #2E2F42;
+}
+.portfolio-title-list-text {
+    //styleName: Body;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+    color: #434455;
+}
+.page-footer {
+    background: #4D5AE5;
+}
+.page-footer-title {
+    font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 21px;
+        letter-spacing: 0.03em;
+        text-align: left;
+    color:#F4F4FD;
+}
+.page-footer-title-text {
+    font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+    color: #F4F4FD;
+}
