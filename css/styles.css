@@ -7,13 +7,6 @@
 button {
     cursor: pointer;
 }
-body {
-    font-family: 'Raleway', 'Roboto', sans-serif;
-    border-bottom: 1px solid #E7E9FC
-}
-.accent-color {
-    color: #fd9222;
-}
 
 .logotype {
     font-family: Raleway;
@@ -163,7 +156,7 @@ body {
     color: #434455;
 }
 .page-footer {
-    background: #4D5AE5;
+    background: #2E2F42;
 }
 .page-footer-title {
     font-family: Raleway;
@@ -172,7 +165,7 @@ body {
         line-height: 21px;
         letter-spacing: 0.03em;
         text-align: left;
-    color:#F4F4FD;
+    color:#4D5AE5;
 }
 .page-footer-title-text {
     font-family: Roboto;
