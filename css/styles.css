@@ -17,6 +17,9 @@ button {
         text-align: left;
     color: #4D5AE5;
 }
+.logotype-link-studio {
+    color: #2E2F42;
+}
 .menu-link {
     //styleName: Body Medium;
         font-family: Roboto;
@@ -166,6 +169,9 @@ button {
         letter-spacing: 0.03em;
         text-align: left;
     color:#4D5AE5;
+}
+.page-footer-title-studio {
+    color: #F4F4FD;
 }
 .page-footer-title-text {
     font-family: Roboto;
