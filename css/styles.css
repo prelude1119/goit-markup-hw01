@@ -7,14 +7,18 @@
 button {
     cursor: pointer;
 }
-
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background: #FFFFFF;
+}
 .logotype {
     font-family: Raleway;
         font-size: 18px;
         font-weight: 700;
         line-height: 21px;
         letter-spacing: 0.03em;
-        text-align: left;
+        
     color: #4D5AE5;
 }
 .logotype-link-studio {
@@ -27,7 +31,7 @@ button {
         font-weight: 500;
         line-height: 24px;
         letter-spacing: 0.02em;
-        text-align: left;
+        
     color: #2E2F42;
 }
 .menu-link:hover,
@@ -41,7 +45,7 @@ button {
         font-weight: 400;
         line-height: 24px;
         letter-spacing: 0.02em;
-        text-align: left;
+        
     color: #434455;
 }
 .address:hover,
@@ -58,7 +62,7 @@ button {
         font-weight: 700;
         line-height: 60px;
         letter-spacing: 0.02em;
-        text-align: center;
+        
     color: #FFFFFF;
 }
 .order {
@@ -68,7 +72,7 @@ button {
         font-weight: 500;
         line-height: 24px;
         letter-spacing: 0.04em;
-        text-align: left;
+        
     color: #FFFFFF;
     background: #4D5AE5;
 }
@@ -84,7 +88,7 @@ button {
         font-weight: 500;
         line-height: 24px;
         letter-spacing: 0.02em;
-        text-align: left;
+        
     color: #2E2F42;
 }
 
@@ -95,7 +99,7 @@ button {
         font-weight: 400;
         line-height: 24px;
         letter-spacing: 0.02em;
-        text-align: left;
+        
     color: #434455;
 }
 .team-title {
@@ -105,7 +109,7 @@ button {
         font-weight: 700;
         line-height: 40px;
         letter-spacing: 0.02em;
-        text-align: center;
+        
     color: #2E2F42;
 }
 .team-title-list {
@@ -115,7 +119,7 @@ button {
         font-weight: 500;
         line-height: 24px;
         letter-spacing: 0.02em;
-        text-align: center;
+        
     color: #2E2F42;
 }
 .team-title-list-text {
@@ -125,7 +129,7 @@ button {
         font-weight: 400;
         line-height: 24px;
         letter-spacing: 0.02em;
-        text-align: center;
+        
     color: #434455;
 }
 .portfolio-title {
@@ -135,7 +139,7 @@ button {
         font-weight: 700;
         line-height: 40px;
         letter-spacing: 0.02em;
-        text-align: center;
+        
     color: #2E2F42;
 }
 .portfolio-title-list {
@@ -145,7 +149,7 @@ button {
         font-weight: 500;
         line-height: 24px;
         letter-spacing: 0.02em;
-        text-align: left;
+        
     color: #2E2F42;
 }
 .portfolio-title-list-text {
@@ -155,7 +159,7 @@ button {
         font-weight: 400;
         line-height: 24px;
         letter-spacing: 0.02em;
-        text-align: left;
+        
     color: #434455;
 }
 .page-footer {
@@ -167,7 +171,7 @@ button {
         font-weight: 700;
         line-height: 21px;
         letter-spacing: 0.03em;
-        text-align: left;
+        
     color:#4D5AE5;
 }
 .page-footer-title-studio {
@@ -179,6 +183,6 @@ button {
         font-weight: 400;
         line-height: 24px;
         letter-spacing: 0.02em;
-        text-align: left;
+        
     color: #F4F4FD;
 }
